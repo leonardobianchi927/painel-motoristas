@@ -3,5 +3,5 @@
 // NUNCA coloque a chave service_role neste arquivo.
 window.RAVIERA_CONFIG = {
   url: "https://opgqacsrdsncuotczmcy.supabase.co",
-  anonKey: "sb_publishable_SUA_CHAVE_PUBLICA"
+  anonKey: "sb_publishable_4rfWWyKHX74o2N8-gwbhQQ_xl8lc3ZN"
 };
